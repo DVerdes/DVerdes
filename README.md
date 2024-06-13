@@ -27,8 +27,8 @@ Actualmente me encuentro finalizando el Ciclo Superior de Desarrollo de Aplicaci
  
 ## 📈 Estadísticas de GitHub
  
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=dverd&show_icons=true&theme=radical)
-![Tus estadísticas de GitHub 2](https://github-readme-stats.vercel.app/api/top-langs/?username=dverd&layout=compact&langs_count=16&theme=dracula)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=dverdes&show_icons=true&theme=radical)
+![Tus estadísticas de GitHub 2](https://github-readme-stats.vercel.app/api/top-langs/?username=dverdes&layout=compact&langs_count=16&theme=dracula)
  
 ## 📫 Cómo contactarme
  
