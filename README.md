@@ -4,7 +4,7 @@
  
 ¡Bienvenido a mi repositorio de GitHub! Soy programador con formación en Desarrollo de Aplicaciones Multiplataforma (DAM) y también soy enfermero.
 
-Mi objetivo es utilizar mis habilidades en desarrollo de software y mi conocimiento en el campo de la salud para crear aplicaciones que hagan la diferencia en la vida de las personas. Estoy siempre abierto a colaboraciones y nuevas oportunidades de aprendizaje.
+Mi objetivo es utilizar mis habilidades en desarrollo de software y mi conocimiento en el campo de la salud para desarrollar aplicaciones que hagan la diferencia en la vida de las personas. Estoy siempre abierto a colaboraciones y nuevas oportunidades de aprendizaje.
  
 ## 🚀 Habilidades
  
@@ -21,9 +21,11 @@ Mi objetivo es utilizar mis habilidades en desarrollo de software y mi conocimie
 
   [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-  [<img src="https://www.ontimize.com/xwiki/bin/download/Ontimize+Training/WebHome/ontimize-logo.png" alt="OntimizeBoot" height="30" width="110">](https://ontimize.github.io/docs/v3/)
+  [<img src="https://www.ontimize.com/xwiki/bin/download/Ontimize+Training/WebHome/ontimize-logo.png" alt="OntimizeBoot" height="30" width="105">](https://ontimize.github.io/docs/v3/)
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![WPF](https://img.shields.io/badge/WPF-178600?style=for-the-badge&logo=microsoft&logoColor=white)
+  
 ### **Bases de Datos**:
 
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -35,6 +37,10 @@ Mi objetivo es utilizar mis habilidades en desarrollo de software y mi conocimie
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
   ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+  [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+  [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) 
+  ![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+  ![NetBeans IDE](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=white)
  
 ## 🌱 Actualmente
  
