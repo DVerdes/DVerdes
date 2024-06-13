@@ -33,6 +33,7 @@ Mi objetivo es utilizar mis habilidades en desarrollo de software y mi conocimie
 ## 📈 Estadísticas de GitHub
  
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=dverdes&show_icons=true&theme=radical)
+
 ![Tus estadísticas de GitHub 2](https://github-readme-stats.vercel.app/api/top-langs/?username=dverdes&layout=compact&langs_count=16&theme=dracula)
  
 ## 📫 Cómo contactarme
