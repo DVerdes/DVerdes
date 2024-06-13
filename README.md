@@ -3,6 +3,8 @@
 ## 💭 Acerca de mí
  
 ¡Bienvenido a mi repositorio de GitHub! Soy programador con formación en Desarrollo de Aplicaciones Multiplataforma (DAM) y también soy enfermero.
+
+Mi objetivo es utilizar mis habilidades en desarrollo de software y mi conocimiento en el campo de la salud para crear aplicaciones que hagan la diferencia en la vida de las personas. Estoy siempre abierto a colaboraciones y nuevas oportunidades de aprendizaje.
  
 ## 🚀 Habilidades
  
